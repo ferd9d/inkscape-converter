@@ -18,7 +18,7 @@
 .PARAMETER height
     Define heigt of output.
 .PARAMETER width
-    Define width of output.
+    Define width of output
 
 .INPUTS
     System.String
